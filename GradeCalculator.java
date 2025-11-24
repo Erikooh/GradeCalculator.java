@@ -1,5 +1,5 @@
 // Classes & Objects - Question 3: GradeCalculator Class
-// Author: Erick
+// Author: S08-8511-2024
 // Date: Nov 24, 2025
 
 public class GradeCalculator {
