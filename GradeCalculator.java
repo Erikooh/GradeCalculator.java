@@ -3,7 +3,7 @@
 // Date: Nov 24, 2025
 
 public class GradeCalculator {
-    // Method to calculate grade based on marks
+   
     public String calculateGrade(double marks) {
         if (marks >= 90) {
             return "A";
